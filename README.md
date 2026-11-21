@@ -13,7 +13,7 @@
 
 <h2>📑 Table of Contents</h2>
 
-- [A – C](./glossary/A-C.md)
+- [A – C](Glossary/A-C.md)
 - [D – F](./glossary/D-F.md)
 - [G – I](./glossary/G-I.md)
 - [J – L](./glossary/J-L.md)
