@@ -1,8 +1,18 @@
-# Project Index
 
-A complete alphabetical glossary of projects by Vicky Wong.
+<div align="center">
 
-## Browse by Letter
+  <h1>🔠 Project Index</h1>
+
+  <p>
+    A complete alphabetical glossary of projects by Vicky Wong.
+  </p>
+
+</div>
+
+<hr>
+
+<h2>📑 Table of Contents</h2>
+
 - [A – C](./glossary/A-C.md)
 - [D – F](./glossary/D-F.md)
 - [G – I](./glossary/G-I.md)
