@@ -13,12 +13,12 @@
 
 <h2>📑 Table of Contents</h2>
 
-- [A – C](Glossary/A-C.md)
-- [D – F](./glossary/D-F.md)
-- [G – I](./glossary/G-I.md)
-- [J – L](./glossary/J-L.md)
-- [M – O](./glossary/M-O.md)
-- [P – R](./glossary/P-R.md)
-- [S – U](./glossary/S-U.md)
-- [V – X](./glossary/V-X.md)
-- [Y – Z](./glossary/Y-Z.md)
+- [A – C](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/A-C.md)
+- [D – F](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/D-F.md)
+- [G – I](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/G-I.md)
+- [J – L](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/J-L.md)
+- [M – O](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/M-O.md)
+- [P – R](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/P-R.md)
+- [S – U](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/S-U.md)
+- [V – X](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/V-X.md)
+- [Y – Z](https://github.com/redefiningvicky/Project-Index/blob/main/Glossary/Y-Z.md)
