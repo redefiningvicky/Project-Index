@@ -49,7 +49,7 @@
 </p>
 
 <p>
-  <sub>November 2026 · Replit, ChatGPT, Vercel, Github</sub>
+  <sub>November 2026 · Replit, ChatGPT, Vercel, GitHub</sub>
 </p>
 
 <p>
