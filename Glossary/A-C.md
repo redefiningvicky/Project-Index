@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <sub>November 2026 · Gemini, Github</sub>
+  <sub>November 2026 · Gemini, GitHub</sub>
 </p>
 
 <p>
